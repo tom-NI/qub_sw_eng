@@ -1,0 +1,10 @@
+#ignore all of apples log files!
+/**/*.DS_Store
+.DS_Store
+
+#ignore intellij stuff
+.idea
+/ArtemisLiteGroupCode/ArtemisLiteGroupCode.iml
+/shelf/
+/.idea/workspace.xml
+.iml
