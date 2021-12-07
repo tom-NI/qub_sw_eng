@@ -1,5 +1,4 @@
-# Queens University Belfast
-## Masters Software Engineering Module - code repository.  (Team Project)
+# Masters Software Engineering Module - code repository.  (Team Project)
 
 The codebase was for the team project in Software Engineering, which was to learn software modelling, engineering, UML, git. Learning outcomes were showcased by producing a command line game modelled off NASAs Artemis Mission.
 
